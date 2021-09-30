@@ -278,7 +278,7 @@ nav {
 
 header {
     background-color: #19262F;
-    height: 150rem;                          /*  700px*/
+    height: 200rem;                          /*  700px*/
     padding-top: calc(36px + 7rem);
     text-align: center;
 
@@ -512,7 +512,7 @@ footer li {
     header 
     {
         padding-top: 7rem;
-        height: 220rem;
+        height: 270rem;
     }
 
 
@@ -547,7 +547,7 @@ footer li {
     header 
     {
         padding-top: 7rem;
-        height: 360rem; 
+        height: 540rem; 
     }
 
     .logo #esas-logo
@@ -579,7 +579,7 @@ footer li {
     header 
     {
         padding-top: 7rem;
-        height: 400rem;   
+        height: 600rem;   
     }
 
     .logo #esas-logo
